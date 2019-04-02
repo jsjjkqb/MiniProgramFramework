@@ -1,2 +1,2 @@
 # MiniProgramFramework
-小程序简单 框架
+小程序简单框架
